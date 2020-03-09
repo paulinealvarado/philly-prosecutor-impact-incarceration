@@ -1,5 +1,5 @@
 # philly-prosecutor-impact-incarceration
-Quantitative evaluation of the 2018 prosecutorial-driven intiative on incarceration sentence lengths in Philadelphia. 
+Quantitative evaluation of the 2018 prosecutorial-driven initiative on incarceration sentence lengths in Philadelphia. 
 
 Materials were submitted for:
 
