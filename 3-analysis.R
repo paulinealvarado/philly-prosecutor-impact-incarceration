@@ -16,12 +16,6 @@
     #   District Attorney's Office. Mike Hollander from the Research Unit of the Philadelphia District Attorney's Office (DAO) 
     #   added columns to the dataset that included the  lead charge information in order to facilitate grouping case dockets by Primary OTN.
 
-
-#   UPDATES
-    #   This is an updated code varying from the original that was submitted to the Phildelphia District Attorney's Research Unit / DATA Lab 
-    #   and the University of Pennsylvania's Department of Criminology. Revisions were made in Fall 2019 / Winter 2020 to incorporate feedback from advisors.
-
-
 #   ---------
 
 
